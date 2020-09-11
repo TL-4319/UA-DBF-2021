@@ -22,7 +22,7 @@ CD_carrier = 0.01;                          %Drag coef of sensor (for M2)
 n_sensor =1;                                %Number of sensors carrier
 
 %% Plane Variables
-w_plane=5;                                  %Plane weight (lb)                                     %Cruise CL
+w_plane=5;                                  %Plane weight (lb)                          
 CD_0= 0.02;             
 CL_max= 1.2;
 b=5;                                        %wing span (ft)
